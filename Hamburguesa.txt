@@ -4,6 +4,6 @@ Huevo
 Lechuga
 Tomate
 
-NO
+
 aceituna
-pepino
+sdfsdf
